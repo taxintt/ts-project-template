@@ -1,0 +1,5 @@
+## ts-project-template
+
+- Linter: ESLint
+- Code formatter: Prettier
+- TypeScript execution engine and REPL: esbuild-register
